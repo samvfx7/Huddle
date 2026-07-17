@@ -1,0 +1,12 @@
+{
+  "name": "Huddle",
+  "short_name": "Huddle",
+  "description": "Run your team like it's match day — rosters, sign-up times, and practices in one place.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#d4a574",
+  "orientation": "portrait-primary",
+  "icons": []
+}
